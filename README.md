@@ -1,1 +1,1 @@
-# lead_manager_app_react_djando
+# lead_manager_app_react_django
